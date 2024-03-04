@@ -1,6 +1,5 @@
       name: Run Auto-TVxml Script
-
-        #on: [push]
+          于:  [push]
           jobs:    
         run-script:
           runs-on: ubuntu-latest
